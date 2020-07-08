@@ -1,0 +1,84 @@
+.mynav{
+	 background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+	 
+}
+.mynav ul li a{
+	
+	color:#fff;
+	
+	
+}
+.mynav .navbar-brand img{
+	height:40px;
+	width:40px;
+}
+.mycarousel img{
+	
+	height:490px;
+	width:100%;
+}
+.prod-head{
+	background:rgb(57 82 13);
+	
+	
+	
+}
+.prod1 img{
+	width:100%;
+	height:330px;
+	
+	
+}
+.prod4{
+	background:url(../../img/aa.jpg);
+	background-size:cover;
+	height:330px;
+	padding-top:100px;
+}
+.prod4 h2{
+	background:rgb(57,82, 131,.7);
+	  
+}
+.prod5{
+	background:url(../../img/dd.jpg);
+	background-size:cover;
+	height:330px;
+	padding-top:100px;
+}
+.prod5 h2{
+	background:rgb(57,82, 131,.7);
+	  
+}
+.prod6{
+	background:url(../../img/cc.jpg);
+	background-size:cover;
+	height:330px;
+	padding-top:100px;
+}
+.prod6 h2{
+	background:rgb(57,82, 131,.7);
+	  
+}
+.prod7{
+	background:url(../../img/bb.jpg);
+	background-size:cover;
+	height:330px;
+	padding-top:100px;
+}
+.prod7 h2{
+	background:rgb(57,82, 131,.7);
+	  
+}
+footer{
+	
+	background:rgb(57 82 131);
+	padding-top:54px;
+	padding-bottom:54px;
+	padding:31px;
+}
+footer ifram{
+	width:100%;
+	height:200px;
+	
+	
+}

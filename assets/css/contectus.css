@@ -1,0 +1,30 @@
+body{
+	background:lightgrey;
+
+
+}
+.mynav .navbar-brand img{
+	height:40px;
+	width:67px;
+}
+/* .mynav{ */
+	/* background:white; */
+	/* height:50px; */
+	
+	
+/* } */
+.prod1{
+	background:white;
+	height:550px;
+	
+}
+.fun{
+	
+	width:95%;
+	height:30px;
+}
+.pen{
+	
+	width:95%;
+	height:70px;
+}
